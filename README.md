@@ -1,9 +1,9 @@
 # AnimaCards
 # 🦄 Mythical Beasts & Creatures Card Game 🐉
-Welcome to Mythical Beasts & Creatures, a strategic text-based card game where players battle with animals, dinosaurs, and mythical creatures, each with unique attributes and interactions. This game combines elements of randomness with strategic decision-making, as players choose their creatures and face environmental effects in various terrains and weather conditions.
+Welcome to AnimaCards, a strategic text-based card game where players battle with animals, dinosaurs, and mythical creatures, each with unique attributes and interactions. This game combines elements of randomness with strategic decision-making, as players choose their creatures and face environmental effects in various terrains and weather conditions.
 
 # 🎮 Game Overview
-In Mythical Beasts & Creatures, two players battle head-to-head by selecting cards that represent animals, ancient creatures, and mythical beings. Each turn, players choose a creature from a randomly generated hand and select an action based on the creature's abilities and environmental factors. Each creature has unique traits, and environmental conditions like terrain and weather can change the dynamics of the game, providing players with a varied and engaging gameplay experience.
+In AnimaCards, two players battle head-to-head by selecting cards that represent animals, ancient creatures, and mythical beings. Each turn, players choose a creature from a randomly generated hand and select an action based on the creature's abilities and environmental factors. Each creature has unique traits, and environmental conditions like terrain and weather can change the dynamics of the game, providing players with a varied and engaging gameplay experience.
 
 # 🧩 Features
 Randomized Creature Selection: A wide variety of creatures are available, including animals, dinosaurs, and mythical beings. Each turn, players are dealt a new hand of creatures.
